@@ -1,6 +1,6 @@
 {
   "allowed_domains": [
-    "notswiggy.in",
-    "notexternal.swiggy.in"
+    "swiggy.in",
+    "external.swiggy.in"
   ]
 }
