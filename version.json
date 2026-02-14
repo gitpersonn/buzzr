@@ -2,5 +2,6 @@
   "latest_version": "1.2",
   "windows_download_url": "https://github.com/user-attachments/files/22884667/BUZZR.zip",
   "linux_download_url": "https://github.com/user-attachments/files/22904726/BUZZR.zip",
-  "announcement": "📢 Important: The KN category is case-sensitive, so please enter it exactly as listed."
+  "announcement" {"1.4": "📢 Important: The KN category is case-sensitive, so please enter it exactly as listed.",
+"1.5": ""}
 }
